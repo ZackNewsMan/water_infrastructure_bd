@@ -1,0 +1,7 @@
+supplier_name,supply_name,count,as_at_date,region,supplier_type,supply_population,consumer_advisory_start_date,consumer_advisory_end_date,consumer_advisory_category,consumer_advisory_age_in_days,consumer_advisory_currently_active,long_term_advisory_notice,advisory_active_2022_end_of_year,advisory_active_2023_end_of_year
+Clutha District Council,Glenkenich Rural,2,3/19/24,Otago,Council,705,1/10/22,3/7/22,Boil Water,56,No,Yes,No,No
+Clutha District Council,Glenkenich Rural,2,3/19/24,Otago,Council,705,7/14/22,6/29/23,Boil Water,350,No,Yes,Yes,No
+Hautope Water Scheme Incorporated,Hautope Water Scheme,2,3/19/24,Hawke’s Bay,Unknown,50,11/16/23,12/18/23,Boil Water,32,No,Yes,No,No
+Hautope Water Scheme Incorporated,Hautope Water Scheme,2,3/19/24,Hawke’s Bay,Unknown,50,1/4/24,2/11/24,Boil Water,38,No,Yes,No,No
+Waitaki District Council,Stoneburn,2,3/19/24,Otago,Council,86,1/20/22,6/8/22,Boil Water,139,No,Yes,No,No
+Waitaki District Council,Stoneburn,2,3/19/24,Otago,Council,86,10/19/23,,Boil Water,151,Yes,Yes,No,Yes
